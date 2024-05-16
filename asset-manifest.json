@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-pet-project/static/css/main.6bd661f9.css",
-    "main.js": "/my-pet-project/static/js/main.933fbee7.js",
+    "main.js": "/my-pet-project/static/js/main.f42866e4.js",
     "static/media/prof-editor-img.png": "/my-pet-project/static/media/prof-editor-img.39726fed2ad6d81cf0f2.png",
     "static/media/me2.jpg": "/my-pet-project/static/media/me2.53955a7f8a09f1206428.jpg",
     "static/media/nasa-project-img.png": "/my-pet-project/static/media/nasa-project-img.4a1fba19dcf73da40bc6.png",
@@ -10,10 +10,10 @@
     "static/media/css-pattern-by-magicpattern5.png": "/my-pet-project/static/media/css-pattern-by-magicpattern5.22e280d88f8fb8f6f63d.png",
     "index.html": "/my-pet-project/index.html",
     "main.6bd661f9.css.map": "/my-pet-project/static/css/main.6bd661f9.css.map",
-    "main.933fbee7.js.map": "/my-pet-project/static/js/main.933fbee7.js.map"
+    "main.f42866e4.js.map": "/my-pet-project/static/js/main.f42866e4.js.map"
   },
   "entrypoints": [
     "static/css/main.6bd661f9.css",
-    "static/js/main.933fbee7.js"
+    "static/js/main.f42866e4.js"
   ]
 }
