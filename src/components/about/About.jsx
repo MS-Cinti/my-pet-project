@@ -19,20 +19,7 @@ const About = () => {
           I have decided to change my career and look for new challenges in IT.  In addition to various online courses, 
           I have completed Codecool's Front-End Developer program which further increased my passion and motivation in working in this field. Since 2022, I am working as a Creative Developer at McCann Erickson where I had the opportunity to develop both my hard and soft skillset necessary for different projects. Overall, I am a highly motivated and easy-going person who always looks for opportunity to learn and develop as a collegue.
           </p>
-{/*           <div className='education'>
-            <h2>Education</h2>
-            <div className="frontend-cont">
-              <p className="first-line">Frontend Developer <br /> Codecool, Budapest <br /> 2022 </p>
-            </div>
-            <div className="elementary-cont">
-              <p className="first-line">Elementary School Teacher <br /> University of ELTE <br /> 2014-2018</p>
-            </div>
-          </div>
-          <div className='skills'>
-            <h2>My skills</h2>
-            <p>Frontend Developer Codecool Budapest 2022</p>
-          </div>
- */}        </div>
+        </div>
       </div>
     </section>
   )
