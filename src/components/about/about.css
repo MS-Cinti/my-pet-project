@@ -61,7 +61,7 @@
     width: 25vw;
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1800px) {
 
     .about-container{
         grid-template-columns: 1fr;
