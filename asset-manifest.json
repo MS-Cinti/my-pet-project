@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/my-pet-project/static/css/main.c0effef0.css",
-    "main.js": "/my-pet-project/static/js/main.65a0100e.js",
+    "main.js": "/my-pet-project/static/js/main.ade4a193.js",
     "static/media/prof-editor-img.png": "/my-pet-project/static/media/prof-editor-img.39726fed2ad6d81cf0f2.png",
     "static/media/me2.jpg": "/my-pet-project/static/media/me2.53955a7f8a09f1206428.jpg",
     "static/media/nasa-project-img.png": "/my-pet-project/static/media/nasa-project-img.4a1fba19dcf73da40bc6.png",
-    "static/media/pet-pr-img.png": "/my-pet-project/static/media/pet-pr-img.b0867751d0b5520bcbbe.png",
+    "static/media/pet-pr-img.png": "/my-pet-project/static/media/pet-pr-img.3393aa5c823d8f465987.png",
     "static/media/css-pattern-by-magicpattern5.png": "/my-pet-project/static/media/css-pattern-by-magicpattern5.22e280d88f8fb8f6f63d.png",
     "index.html": "/my-pet-project/index.html",
     "main.c0effef0.css.map": "/my-pet-project/static/css/main.c0effef0.css.map",
-    "main.65a0100e.js.map": "/my-pet-project/static/js/main.65a0100e.js.map"
+    "main.ade4a193.js.map": "/my-pet-project/static/js/main.ade4a193.js.map"
   },
   "entrypoints": [
     "static/css/main.c0effef0.css",
-    "static/js/main.65a0100e.js"
+    "static/js/main.ade4a193.js"
   ]
 }
